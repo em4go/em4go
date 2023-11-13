@@ -1,10 +1,12 @@
-### Hi there!👋 I'm Ernesto 👨🏽‍💻
+![Title Banner](photo_left.png)
 
-I'm currently a Data Science student at [Universitat Politècncia de València](https://www.upv.es). I am currently working on personal projects and keep self-learning about web development and machine learning.
+I'm a Data Science student at [Universitat Politècncia de València](https://www.upv.es). I am currently working on personal projects and keep self-learning about web development and machine learning.
 
 You can find mi at:
 
 - [My blog](em4go.github.io/em4go-blog/)
+- [Linkedin](https://www.linkedin.com/in/ernestomg/)
+- [Twitter](https://twitter.com/3rnestomartinez)
 <!--
 **em4go/em4go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- My tech stack
 -->
