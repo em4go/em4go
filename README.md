@@ -7,7 +7,7 @@ I'm a Data Science student 📚 at [Universitat Politècncia de València](https
 ### 🔎 You can find me at
 
 <p>
-  <a href="https://em4go.github.io/em4go-blog">
+  <a href="https://em4go.github.io/portfolio">
     <img src="https://img.shields.io/badge/-em4go.github.io-074784?style=flat-square&amp;labelColor=074784&amp;logo=Firefox&amp;link=https://em4go.github.io/em4go-blog" alt="Website Badge">
   </a>
   <a href="https://www.linkedin.com/in/ernestomg/">
