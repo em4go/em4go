@@ -1,6 +1,6 @@
 ![Title Banner](photo_left.png)
 
-I'm a Data Science student 📚 at [Universitat Politècncia de València](https://www.upv.es). I am currently working on personal projects and keep self-learning about web development and machine learning. I'm also a track and field athlete 🏃🏽‍♂️😉
+I'm a Data Science student 📚 at [Universitat Politècnica de València](https://www.upv.es). I am currently working on personal projects and keep self-learning about web development and machine learning. I'm also a track and field athlete 🏃🏽‍♂️😉
 
 <br/>
 
