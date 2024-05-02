@@ -13,9 +13,6 @@ I'm a Data Science student 📚 at [Universitat Politècnica de València](https
   <a target="_blank" href="https://www.linkedin.com/in/ernestomg/">
     <img src="https://img.shields.io/badge/-@ernestomg-0a66c2?style=flat-square&amp;labelColor=0a66c2&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ernestomg/" alt="LinkedIn Badge">
   </a>
-   <a target="_blank" href="https://twitter.com/3rnestomartinez">
-     <img src="https://img.shields.io/badge/-@3rnestomartinez-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=X&amp;link=https://twitter.com/3rnestomartinez" alt="Twitter Badge">
-   </a>
   <a target="_blank" href="https://open.spotify.com/user/emago2004">
     <img src="https://img.shields.io/badge/-@em4go-1db954?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/emago2004" alt="Spotify Badge">
   </a>
